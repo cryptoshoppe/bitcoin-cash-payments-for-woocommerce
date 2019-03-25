@@ -39,6 +39,7 @@ This is still in Beta, some bugs may be encountered please open an issue.
 == TODO ==
 
 Add Cashaddr support back in.
+Make a Badger Button variant of this plugin.
 
 == Screenshots ==
 
@@ -66,13 +67,14 @@ Add Cashaddr support back in.
 * ninjastik: http://wordpress.org/support/profile/ninjastik
 * timbowhite: https://github.com/timbowhite
 * devlinfox: http://wordpress.org/support/profile/devlinfox
+* Wecx (ancap BCH images): https://www.reddit.com/user/Wecx-
 
 
 == Changelog ==
 
-= 1.00 [2018.32.5] =
+= 1.00 [2018.3.25] =
 
-Forked from Bitcoin SV repos, backported to work with Bitcoin Cash.
+Forked from mboyd1's Bitcoin SV Payments for WooCommerce , backported to work with Bitcoin Cash.
 
 = 4.20 =
 * Bitcoin SV support. Use Weighted Average exchange rate calculation. ElectrumSV wallet is compatible with this plugin. Previous wallet, Electron Cash version 3.3.2 is last compatible version with BSV.
